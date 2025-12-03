@@ -6,7 +6,7 @@
 ---
 
 ## Overview
-This project demonstrates a 3D-printed robotic arm controlled by an Arduino microcontroller. The arm can pick up a small object (like a plastic duck) and place it back down either manually using a smartphone emulator or autonomously with stored sequences. The project showcases servo motor control, microcontroller programming, power management, and basic robotic kinematics.
+This project demonstrates a 3D-printed robotic arm controlled by an Arduino microcontroller. The arm can pick up a small object (like a plastic duck) and place it back down either manually using an emulator or autonomously with stored sequences. The project showcases servo motor control, microcontroller programming, power management, and basic robotic kinematics.
 
 ---
 
